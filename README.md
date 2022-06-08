@@ -2,12 +2,8 @@
 
 ## Table of Contents
 * [User Story](#user-story)
-* [Version 1.0](#version-1.0)
 * [How To Use](#how-to-use)
-* [Coding Languages Used](#coding-languages-used)
-* [NPMs Used](#npms-used)
-* [Structure of Code and Functions](#structure-of-code-and-functions)
-* [Known Issues With Code](#known-issues-with-code)
+
 
 ## User Story
 As a business owner I am in need of an app that allows me to create and edit a company database.  This database will keep track of my departments and the job roles in each department.  Then it will also keep track of my department managers and their employees.  The employees will all have basic information such as first and last name, salary, job title(role), department they work in and who their manager is.
